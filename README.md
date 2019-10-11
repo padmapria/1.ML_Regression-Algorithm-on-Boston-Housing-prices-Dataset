@@ -2,7 +2,7 @@ Boston-House-Price-dataset
 
 When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc.
 
-We can apply various regression models to solve this, like SVM, Logistic Regression etc. 
+We can apply various regression models to solve this, like SVM, Linear Regression etc. 
 
 We see how linear Regression works.
 	Linear Regression to find best hyper-plane which goes through the points. We need to optimise the LR model, when many points lie much above or below the hyperplane. This is called optimisation . We are going to manually implement and optimize SGD for Linear Regression
