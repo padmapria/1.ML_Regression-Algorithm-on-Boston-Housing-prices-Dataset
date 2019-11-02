@@ -1,6 +1,11 @@
 Boston-House-Price-dataset
 
-When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc.
+The Boston Housing Dataset consists of price of houses in various places in Boston. Alongside with price, the dataset also provide information such as Crime (CRIM), areas of non-retail business in the town (INDUS), the age of people who own the house (AGE), and there are many other attributes that available here.
+
+The dataset is available at kaggle https://www.kaggle.com/c/boston-housing
+
+In this post, we are going to learn how to implement linear regression on Boston Housing dataset using scikit-learn.
+Boston Housing Dataset. When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc.
 
 We can apply various regression models to solve this, like SVM, Linear Regression etc. 
 
