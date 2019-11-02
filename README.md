@@ -1,13 +1,11 @@
 Boston-House-Price-dataset
 
-The Boston Housing Dataset consists of price of houses in various places in Boston. Alongside with price, the dataset also provide information such as Crime (CRIM), areas of non-retail business in the town (INDUS), the age of people who own the house (AGE), and there are many other attributes that available here.
+The Boston Housing Dataset consists of price of houses in various places in Boston. Alongside with price, the dataset also provide information such as Crime (CRIM), areas of non-retail business in the town (INDUS), the age of people who own the house (AGE), and there are many other attributes that available here.  We are going to design a model to predict the house prices.
 
 The dataset is available at kaggle https://www.kaggle.com/c/boston-housing
 
-In this post, we are going to learn how to implement linear regression on Boston Housing dataset using scikit-learn.
-Boston Housing Dataset. When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc.
-
-We can apply various regression models to solve this, like SVM, Linear Regression etc. 
+ When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc. We can apply various regression models to solve this, like SVM, Linear Regression etc. In this project, we are going to learn how to implement linear regression on Boston Housing dataset using scikit-learn.
+Boston Housing Dataset.
 
 We see how linear Regression works.
 	Linear Regression to find best hyper-plane which goes through the points. We need to optimise the LR model, when many points lie much above or below the hyperplane. This is called optimisation . We are going to manually implement and optimize SGD for Linear Regression
