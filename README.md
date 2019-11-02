@@ -7,7 +7,7 @@ The dataset is available at kaggle https://www.kaggle.com/c/boston-housing
  When our output is real or continuous value the problem is considered as regression problem. Example predicting ‘price’, ‘weight’, 'projected_units_of_sale' etc. We can apply various regression models to solve this, like SVM, Linear Regression etc. In this project, we are going to learn how to implement linear regression on Boston Housing dataset using scikit-learn.
 Boston Housing Dataset.
 
-We see how linear Regression works.
+We see how linear Regression works.  
 	Linear Regression to find best hyper-plane which goes through the points. We need to optimise the LR model, when many points lie much above or below the hyperplane. This is called optimisation . We are going to manually implement and optimize SGD for Linear Regression
 
 1) Manual implementation of SGD for linear regression 
